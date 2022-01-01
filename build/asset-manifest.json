@@ -1,10 +1,19 @@
 {
-  "files": {
-    "main.js": "/static/js/main.78fdb7b4.js",
-    "index.html": "/index.html",
-    "main.78fdb7b4.js.map": "/static/js/main.78fdb7b4.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.78fdb7b4.js"
-  ]
+  "main.css": "/reactlivewebsite/static/css/main.4c1d875c.chunk.css",
+  "main.js": "/reactlivewebsite/static/js/main.8688942b.chunk.js",
+  "main.js.map": "/reactlivewebsite/static/js/main.8688942b.chunk.js.map",
+  "static/css/1.3200224f.chunk.css": "/reactlivewebsite/static/css/1.3200224f.chunk.css",
+  "static/js/1.8de79aff.chunk.js": "/reactlivewebsite/static/js/1.8de79aff.chunk.js",
+  "static/js/1.8de79aff.chunk.js.map": "/reactlivewebsite/static/js/1.8de79aff.chunk.js.map",
+  "runtime~main.js": "/reactlivewebsite/static/js/runtime~main.18a195a0.js",
+  "runtime~main.js.map": "/reactlivewebsite/static/js/runtime~main.18a195a0.js.map",
+  "static/media/log-in-girl.svg": "/reactlivewebsite/static/media/log-in-girl.759253f7.svg",
+  "static/media/blogging.svg": "/reactlivewebsite/static/media/blogging.571b2807.svg",
+  "static/media/S3.jpg": "/reactlivewebsite/static/media/S3.9359e6a2.jpg",
+  "static/media/S5.jpg": "/reactlivewebsite/static/media/S5.3c860608.jpg",
+  "static/css/main.4c1d875c.chunk.css.map": "/reactlivewebsite/static/css/main.4c1d875c.chunk.css.map",
+  "static/css/1.3200224f.chunk.css.map": "/reactlivewebsite/static/css/1.3200224f.chunk.css.map",
+  "index.html": "/reactlivewebsite/index.html",
+  "precache-manifest.d30db7abb81bfc2cb29fc4102fcc9c84.js": "/reactlivewebsite/precache-manifest.d30db7abb81bfc2cb29fc4102fcc9c84.js",
+  "service-worker.js": "/reactlivewebsite/service-worker.js"
 }
