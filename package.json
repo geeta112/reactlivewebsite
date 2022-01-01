@@ -1,6 +1,6 @@
 {
   "name": "geeta-react-app",
-  "homepage": "http://geeta-react-app.com/reactlivewebsite",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -26,6 +26,8 @@
   },
   "scripts": {
     "build:staging": "env-cmd -f .env.staging npm run build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
