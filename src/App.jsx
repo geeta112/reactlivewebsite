@@ -14,11 +14,11 @@ const App = () => {
     <>
       <NavBar />
       <Switch>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/service" component={Service} />
-        <Route exact path="/contact" component={Contact} />
-        <Redirect to="/" />
+        <Route exact path="/reactlivewebsite" component={Home} />
+        <Route exact path="/reactlivewebsite/about" component={About} />
+        <Route exact path="/reactlivewebsite/service" component={Service} />
+        <Route exact path="/reactlivewebsite/contact" component={Contact} />
+        <Redirect to="/reactlivewebsite" />
       </Switch>
       <Footer />
     </>

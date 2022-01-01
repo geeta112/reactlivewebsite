@@ -18,10 +18,14 @@ const NavBar = () => {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                   <Nav className="ms-auto">
-                    <Nav.Link href="/">Home</Nav.Link>
-                    <Nav.Link href="/service">Services</Nav.Link>
-                    <Nav.Link href="/about">About</Nav.Link>
-                    <Nav.Link href="/contact">Contact</Nav.Link>
+                    <Nav.Link href="/reactlivewebsite/">Home</Nav.Link>
+                    <Nav.Link href="/reactlivewebsite/service">
+                      Services
+                    </Nav.Link>
+                    <Nav.Link href="/reactlivewebsite/about">About</Nav.Link>
+                    <Nav.Link href="/reactlivewebsite/contact">
+                      Contact
+                    </Nav.Link>
                   </Nav>
                 </Navbar.Collapse>
               </Container>
