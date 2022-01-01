@@ -1,6 +1,6 @@
 {
-  "name": "geeta-react-app",
-  "homepage": "https://geeta112.github.io/reactlivewebsite",
+  "name": "reactlivewebsite",
+  "homepage": "https://geeta112.github.io/reactlivewebsite/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
